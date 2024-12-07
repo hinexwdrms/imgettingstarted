@@ -1,2 +1,3 @@
 # imgettingstarted
-just learning and making things
+
+First solution to: https://roadmap.sh/projects/number-guessing-game
